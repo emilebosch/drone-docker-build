@@ -1,0 +1,2 @@
+docker build -t 54hrs/drone-docker-build .
+docker push 54hrs/drone-docker-build
